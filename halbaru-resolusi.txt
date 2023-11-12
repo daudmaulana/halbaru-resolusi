@@ -1,6 +1,7 @@
 HALBARU RESOLUSI
 - Konsisten untuk menulis artikel
 - Menambah beberapa tag
+  ^ Cryptocurrency
   ^ Traveling
   ^ Film
 - Membuat forum diskusi
