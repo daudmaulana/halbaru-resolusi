@@ -1,6 +1,10 @@
 HALBARU RESOLUSI
 - Konsisten untuk menulis artikel
 - Menambah beberapa tag
+  ^ Traveling
+  ^ Film
 - Membuat forum diskusi
+  ^ Discord
+  ^ Telegram
 - Membuat website khusus
 - Kolaborasi dengan blogger terkenal
