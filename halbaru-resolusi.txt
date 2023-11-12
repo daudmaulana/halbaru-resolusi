@@ -1,6 +1,7 @@
 HALBARU RESOLUSI
 - Konsisten untuk menulis artikel
 - Menambah beberapa tag
+  ^ Produk
+  ^ Cryptocurrency
 - Membuat forum diskusi
-- Membuat website khusus
 - Kolaborasi dengan blogger terkenal
